@@ -1,6 +1,6 @@
 print("Eduard Munoz Tarrago")
 
-print("Python", "es", "divertit", sep="-")
+print("Python", "es", "divertit", sep="----")
 
 print(15+27)
 
